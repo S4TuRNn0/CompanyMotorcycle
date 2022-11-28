@@ -1,4 +1,5 @@
 ﻿using Contracts;
+using Entities.Models;
 using Service.Contracts;
 using System;
 using System.Collections.Generic;
@@ -21,7 +22,7 @@ namespace Service
             this._loggerManager = loggerManager;
         }
 
-        public IEnumerable<IAgencyService> GetAllAgencies(bool trackChanges)
+        public IEnumerable<Agency> GetAllAgencies(bool trackChanges)
         {
             try
             {
@@ -34,6 +35,11 @@ namespace Service
                 _loggerManager.LogError($"Something went wrong in the {nameof(GetAllAgencies)} service method {ex}");
                 throw;
             }
+        }
+
+        IEnumerable<IAgencyService> IAgencyService.GetAllAgencies(bool trackChanges)
+        {
+            throw new NotImplementedException();
         }
     }
 }
