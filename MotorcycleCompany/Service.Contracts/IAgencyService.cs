@@ -8,5 +8,6 @@ namespace Service.Contracts
 {
     public interface IAgencyService
     {
+        IEnumerable<IAgencyService> GetAllAgencies(bool trackChanges);
     }
 }

@@ -5,11 +5,24 @@
       "Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Contracts.dll": {}
         },
         "runtime": {
           "bin/placeholder/Contracts.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
         }
       },
       "Service.Contracts/1.0.0": {
@@ -30,6 +43,11 @@
       "path": "../Contracts/Contracts.csproj",
       "msbuildProject": "../Contracts/Contracts.csproj"
     },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    },
     "Service.Contracts/1.0.0": {
       "type": "project",
       "path": "../Service.Contracts/Service.Contracts.csproj",
@@ -43,19 +61,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ajech\\.nuget\\packages\\": {}
+    "C:\\Users\\Ambiente\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\Ambiente\\Documents\\Angie\\CompanyMotorcycle\\MotorcycleCompany\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service\\Service.csproj",
-      "packagesPath": "C:\\Users\\ajech\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service\\obj\\",
+      "projectPath": "C:\\Users\\Ambiente\\Documents\\Angie\\CompanyMotorcycle\\MotorcycleCompany\\Service\\Service.csproj",
+      "packagesPath": "C:\\Users\\Ambiente\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ambiente\\Documents\\Angie\\CompanyMotorcycle\\MotorcycleCompany\\Service\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ajech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ambiente\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,11 +92,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Contracts\\Contracts.csproj"
+            "C:\\Users\\Ambiente\\Documents\\Angie\\CompanyMotorcycle\\MotorcycleCompany\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\Ambiente\\Documents\\Angie\\CompanyMotorcycle\\MotorcycleCompany\\Contracts\\Contracts.csproj"
             },
-            "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj": {
-              "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj"
+            "C:\\Users\\Ambiente\\Documents\\Angie\\CompanyMotorcycle\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Ambiente\\Documents\\Angie\\CompanyMotorcycle\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj"
             }
           }
         }
@@ -93,8 +116,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -103,7 +125,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

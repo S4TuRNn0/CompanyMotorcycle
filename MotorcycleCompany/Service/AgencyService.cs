@@ -11,14 +11,29 @@ namespace Service
     internal sealed class AgencyService : IAgencyService
     {
 
-        private readonly IRepositoryManager repository;
-        private readonly ILoggerManager loggerManager;
+        private readonly IRepositoryManager _repository;
+        private readonly ILoggerManager _loggerManager;
 
         public AgencyService(IRepositoryManager repository, 
             ILoggerManager loggerManager)
         {
-            this.repository = repository;
-            this.loggerManager = loggerManager;
+            this._repository = repository;
+            this._loggerManager = loggerManager;
+        }
+
+        public IEnumerable<IAgencyService> GetAllAgencies(bool trackChanges)
+        {
+            try
+            {
+                var agencies = _repository.Agency.GetAllAgencies(trackChanges);
+                return agencies;
+                
+            }
+            catch (Exception ex)
+            {
+                _loggerManager.LogError($"Something went wrong in the {nameof(GetAllAgencies)} service method {ex}");
+                throw;
+            }
         }
     }
 }
