@@ -14,5 +14,10 @@ namespace Repository
             : base(context)
         {
         }
+
+       public IEnumerable<Agency> GetAllAgencies(bool trackChanges) =>
+            FindAll(trackChanges)
+            .OrderBy(a => a.Name)
+            .ToList();
     }
 }

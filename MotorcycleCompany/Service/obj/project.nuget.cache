@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "SluXf6S6Vg5G7/FOEUsBAa54jdoWXD9523ZmbPaTGKjJkmYKNAMX/MToeRC2VTgkfVr8he3dHCUC25PTut1a9Q==",
+  "dgSpecHash": "GErUytWMmfSpq5vaxdkwQ8Rj/a4Jh3YSqAT1qRZFQPvmzF7od3zimaxJcec4NTf5hzvTd63oORKwxb6AjSXPug==",
   "success": true,
   "projectFilePath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service\\Service.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
