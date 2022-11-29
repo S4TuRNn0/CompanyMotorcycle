@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\ajech\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ajech\\AppData\\Roaming\\NuGet\\NuGet.Config",

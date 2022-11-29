@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kr04f1NzHk4pdoA7vH6XLTxd4Ceqelbc7PCm4njooavU31JfkNMCDB9/e+iwYLEhQ+VHPzCVYyKFNZoKOqbtww==",
+  "dgSpecHash": "q2VvNDQmDocaR/Q45pWP8E0EWbqmC9S3KVdA/CvXJMdlZOYLsf97ksN+DRnPzZ4448btz1zWqHgDvog7dLE1Ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

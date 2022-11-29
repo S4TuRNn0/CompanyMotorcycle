@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\MotorcycleCompany\\MotorcycleCompany.csproj": {}
+    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\MotorcycleCompany\\MotorcycleCompany.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\ajech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajech\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Entities\\Entities.csproj": {
+    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ajech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajech\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -114,14 +114,14 @@
         }
       }
     },
-    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\MotorcycleCompany\\MotorcycleCompany.csproj": {
+    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\MotorcycleCompany\\MotorcycleCompany.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\MotorcycleCompany\\MotorcycleCompany.csproj",
+        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\MotorcycleCompany\\MotorcycleCompany.csproj",
         "projectName": "MotorcycleCompany",
-        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\MotorcycleCompany\\MotorcycleCompany.csproj",
+        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\MotorcycleCompany\\MotorcycleCompany.csproj",
         "packagesPath": "C:\\Users\\ajech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\MotorcycleCompany\\obj\\",
+        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\MotorcycleCompany\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajech\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,14 +138,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Repository\\Repository.csproj"
+              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Repository\\Repository.csproj"
               },
-              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj"
+              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj": {
+                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj"
               },
-              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service\\Service.csproj"
+              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service\\Service.csproj"
               }
             }
           }
@@ -200,14 +200,14 @@
         }
       }
     },
-    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Repository\\Repository.csproj": {
+    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\ajech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajech\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -224,11 +224,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Contracts\\Contracts.csproj"
+              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Contracts\\Contracts.csproj"
               },
-              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Entities\\Entities.csproj"
+              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Entities\\Entities.csproj"
               }
             }
           }
@@ -272,14 +272,14 @@
         }
       }
     },
-    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj": {
+    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj",
         "projectName": "Service.Contracts",
-        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj",
+        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj",
         "packagesPath": "C:\\Users\\ajech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajech\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -327,14 +327,14 @@
         }
       }
     },
-    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service\\Service.csproj": {
+    "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\ajech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service\\obj\\",
+        "outputPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajech\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -351,11 +351,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Contracts\\Contracts.csproj"
+              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Contracts\\Contracts.csproj"
               },
-              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj"
+              "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj": {
+                "projectPath": "C:\\Users\\ajech\\OneDrive\\Documents\\2395874-ADSI\\Instructor Vladimir\\TRIMESTRE V\\API RESTFULL\\CompanyMotorcycle\\MotorcycleCompany\\Service.Contracts\\Service.Contracts.csproj"
               }
             }
           }
