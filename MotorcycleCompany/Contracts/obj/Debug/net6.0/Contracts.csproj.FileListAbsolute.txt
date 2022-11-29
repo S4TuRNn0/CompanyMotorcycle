@@ -34,3 +34,18 @@ C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\A
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\Contracts\obj\Debug\net6.0\refint\Contracts.dll
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\Contracts\obj\Debug\net6.0\Contracts.pdb
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\bin\Debug\net6.0\ref\Contracts.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Contracts\obj\Debug\net6.0\Contracts.pdb

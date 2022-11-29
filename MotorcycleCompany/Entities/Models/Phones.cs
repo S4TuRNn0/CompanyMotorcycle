@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace Entities.Models
 {
     [Table("Phone")]
-    public partial class Phone
+    public partial class Phones
     {
         [Key]
         public Guid AgencyId { get; set; }

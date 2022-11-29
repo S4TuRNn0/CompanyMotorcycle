@@ -35,7 +35,12 @@
       "ProjectGuid": "6be0b9c2-7218-4698-928a-7f4b951aca12",
       "DisplayName": "Repository",
       "ColorIndex": 6
+    },
+    "641b1879-b116-4f99-a626-fbe6b449b4d6": {
+      "ProjectGuid": "641b1879-b116-4f99-a626-fbe6b449b4d6",
+      "DisplayName": "Entities",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

@@ -49,3 +49,20 @@ C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\A
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\Repository\obj\Debug\net6.0\refint\Repository.dll
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\Repository\obj\Debug\net6.0\Repository.pdb
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\bin\Debug\net6.0\ref\Repository.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\bin\Debug\net6.0\Contracts.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\bin\Debug\net6.0\Entities.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\bin\Debug\net6.0\Entities.pdb
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Repository\obj\Debug\net6.0\Repository.pdb

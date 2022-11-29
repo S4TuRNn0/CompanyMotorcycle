@@ -215,3 +215,13 @@ C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\A
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\MotorcycleCompany.pdb
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\MotorcycleCompany.genruntimeconfig.cache
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\ref\MotorcycleCompany.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\MotorcycleCompany.csproj.AssemblyReference.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\MotorcycleCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\MotorcycleCompany.AssemblyInfoInputs.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\MotorcycleCompany.AssemblyInfo.cs
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\MotorcycleCompany.csproj.CoreCompileInputs.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\MotorcycleCompany.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\MotorcycleCompany.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\MotorcycleCompany.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\ref\MotorcycleCompany.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\MotorcycleCompany\obj\Debug\net6.0\MotorcycleCompany.pdb

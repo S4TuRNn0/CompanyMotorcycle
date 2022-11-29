@@ -22,3 +22,15 @@ C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\A
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\Service.Contracts\obj\Debug\net6.0\refint\Service.Contracts.dll
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\Service.Contracts\obj\Debug\net6.0\Service.Contracts.pdb
 C:\Users\ajech\OneDrive\Documents\2395874-ADSI\Instructor Vladimir\TRIMESTRE V\API RESTFULL\MotorcycleCompany\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\bin\Debug\net6.0\Service.Contracts.deps.json
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\bin\Debug\net6.0\ref\Service.Contracts.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.AssemblyReference.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\obj\Debug\net6.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfoInputs.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\obj\Debug\net6.0\Service.Contracts.AssemblyInfo.cs
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\obj\Debug\net6.0\Service.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\obj\Debug\net6.0\Service.Contracts.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\obj\Debug\net6.0\ref\Service.Contracts.dll
+C:\Users\Ambiente\Documents\CompanyMt\CompanyMotorcycle\MotorcycleCompany\Service.Contracts\obj\Debug\net6.0\Service.Contracts.pdb

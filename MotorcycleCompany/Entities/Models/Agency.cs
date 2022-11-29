@@ -11,7 +11,7 @@ namespace Entities.Models
     {
         public Agency()
         {
-            Phones = new HashSet<Phone>();
+            Phones = new HashSet<Phones>();
             Rents = new HashSet<Rent>();
         }
 
@@ -27,7 +27,7 @@ namespace Entities.Models
         public string Name { get; set; } = null!;
 
         [InverseProperty("Agency")]
-        public virtual ICollection<Phone> Phones { get; set; }
+        public virtual ICollection<Phones> Phones { get; set; }
         [InverseProperty("Agency")]
         public virtual ICollection<Rent> Rents { get; set; }
     }

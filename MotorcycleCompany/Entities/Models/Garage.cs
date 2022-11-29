@@ -21,7 +21,7 @@ namespace Entities.Models
         public string Address { get; set; } = null!;
         [StringLength(60)]
         public string Name { get; set; } = null!;
-        public Guid CityId { get; set; }
+        public int CityId { get; set; }
 
         [ForeignKey("CityId")]
         [InverseProperty("Garages")]
