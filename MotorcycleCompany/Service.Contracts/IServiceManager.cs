@@ -8,9 +8,13 @@ namespace Service.Contracts
 {
     public interface IServiceManager
     {
-        IAgencyService AgencyService {get;}
+        IAgencyService AgencyService { get; }
         ICityService CityService { get; }
         IClientService ClientService { get; }
+        IGarajeService GarajeService { get; }
+        IMotorcycleService MotorcycleService { get; }
+        IPhonesService PhonesService { get; }
+        IRentService RentService { get; }
 
     }
 }
